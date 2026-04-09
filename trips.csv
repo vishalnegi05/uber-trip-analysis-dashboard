@@ -1,0 +1,26 @@
+trip_id,driver_id,pickup_location,drop_location,trip_date,trip_time,distance_km,fare_amount
+1,1,Connaught Place,Karol Bagh,2024-05-01,08:30:00,5.2,120
+2,2,Saket,Noida,2024-05-01,09:00:00,12.5,250
+3,1,Dwarka,Airport,2024-05-02,06:00:00,15.0,300
+4,3,Andheri,Bandra,2024-05-02,10:30:00,8.0,180
+5,4,Whitefield,Indiranagar,2024-05-03,18:00:00,10.5,220
+6,5,Banjara Hills,Hitech City,2024-05-03,20:00:00,7.2,150
+7,2,Noida,Delhi,2024-05-04,09:30:00,13.0,270
+8,1,Karol Bagh,CP,2024-05-04,11:00:00,5.0,110
+9,3,Bandra,Colaba,2024-05-05,14:00:00,9.5,210
+10,4,BTM,MG Road,2024-05-05,19:00:00,6.0,140
+11,5,Gachibowli,Airport,2024-05-06,07:00:00,20.0,400
+12,1,Delhi,Noida,2024-05-06,08:30:00,14.0,280
+13,2,Noida,Gurgaon,2024-05-07,10:00:00,18.0,350
+14,3,Mumbai Central,Andheri,2024-05-07,12:00:00,11.0,230
+15,4,Koramangala,Whitefield,2024-05-08,17:00:00,12.0,260
+16,5,Hitech City,Banjara Hills,2024-05-08,21:00:00,7.0,140
+17,1,CP,Dwarka,2024-05-09,09:00:00,16.0,320
+18,2,Gurgaon,Delhi,2024-05-09,11:30:00,20.0,400
+19,3,Colaba,Bandra,2024-05-10,15:00:00,9.0,200
+20,4,MG Road,BTM,2024-05-10,18:30:00,6.5,150
+21,5,Airport,Gachibowli,2024-05-11,08:00:00,20.0,420
+22,1,Noida,CP,2024-05-11,10:00:00,12.0,240
+23,2,Delhi,Saket,2024-05-12,13:00:00,10.0,200
+24,3,Andheri,Bandra,2024-05-12,16:00:00,8.5,190
+25,4,Whitefield,BTM,2024-05-13,19:30:00,11.0,230
